@@ -1,0 +1,11 @@
+header {
+  background-color: rgba(255, 109, 109, 0.644);
+}
+
+body {
+  font-size: 10px;
+}
+
+body div {
+  font-size: 20px;
+}
